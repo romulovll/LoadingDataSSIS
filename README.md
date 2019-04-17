@@ -1,4 +1,4 @@
-# ETL_SSIS
+# Creating a process of ETL using SSIS(SQL Server)
 Automatization of datas using the Agent from SQL server
 This repository storage a process thats envolves ETL using Integration Service and Visual Studio, All the steps was executing on the VW Windows 10.
 Step 1: Define the source (CSV)
